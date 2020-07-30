@@ -1,6 +1,6 @@
-title = "Notre-Dame de Paris"
+title = "Keep Healthy"
 baseURL = "/hugo-website"
-languageCode = "en-us"
+languageCode = "zh"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 
